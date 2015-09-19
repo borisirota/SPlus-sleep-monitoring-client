@@ -1,0 +1,5 @@
+set xrange [0:255]
+#set datafile separator ","
+plot 'plot.dat' with lines, 'plot2.dat' with lines
+pause 0.1
+reread
