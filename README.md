@@ -1,4 +1,4 @@
-This code developed based on analyzing of S+ Resmed Andorid app and sniffing of bluetooth communication with device.
+This code developed based on analyzing of S+ ResMed Andorid app and sniffing of bluetooth communication with device.
 
 **This script was developed and tested on windows 8.1 x64**
 
